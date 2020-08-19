@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="118" viewBox="0 0 118 118">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-körper_schlange);
+      }
+
+      .cls-2 {
+        fill: #101a01;
+      }
+    </style>
+    <clipPath id="clip-körper_schlange">
+      <rect width="118" height="118"/>
+    </clipPath>
+  </defs>
+  <g id="körper_schlange" class="cls-1">
+    <rect class="cls-2" width="118" height="118"/>
+  </g>
+</svg>
