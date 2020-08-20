@@ -53,9 +53,9 @@ function collision(head,array){
 }
 
 async function draw(){
-  contex.fillStyle = '#5a5e69';
+  contex.fillStyle = '#313E6C';//'#5a5e69';
       contex.fillRect(0,0,608,608);
-      contex.fillStyle = '#7a7e6d';
+      contex.fillStyle = '#8EC019';//'#7a7e6d';
       contex.fillRect(atom,3*atom,17*atom,15*atom);
 
     for(let i = 0; i < snake.length ; i++){
